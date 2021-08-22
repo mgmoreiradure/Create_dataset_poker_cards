@@ -1,0 +1,4 @@
+imgaug
+numpy
+shapely
+tqdm
