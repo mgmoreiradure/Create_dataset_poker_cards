@@ -1,4 +1,4 @@
-pencv-python
+opencv-python
 imgaug
 numpy
 shapely
